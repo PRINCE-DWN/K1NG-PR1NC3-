@@ -81,7 +81,7 @@ WA  return render_template_string('''
     label { color: white; }
     .file { height: 25px; }
     body {
-      background-image: url('https://i.ibb.co/0yG4hWLD/7d58be2ff5881fad5b186d9ce8975937.jpg');
+      background-image: url('https://i.ibb.co/FqmkQsmW/FB-IMG-1755478649528.jpg');
       background-size: cover;
       background-repeat: no-repeat;
       color: white;
